@@ -1,0 +1,10 @@
+{
+  "name": "balance-ai-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "밸런스 AI — AI 훈련소 + AI 광장 (Netlify: 키는 서버에, 광장은 모두가 함께)",
+  "dependencies": {
+    "@netlify/blobs": "*"
+  }
+}

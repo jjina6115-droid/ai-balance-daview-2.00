@@ -1,0 +1,4 @@
+# 밸런스 AI — Netlify 설정
+# 웹사이트 화면은 public/index.html, /api/* 주소는 netlify/edge-functions/api.js 가 처리해요.
+[build]
+  publish = "public"
